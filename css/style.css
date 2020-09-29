@@ -1,0 +1,54 @@
+h1 {
+	font-size: 36px;
+	line-height: 36px;
+	margin-bottom: 20px;
+}
+h2 {
+	font-size: 32px;
+	line-height: 32px;
+}
+p {
+	font-size: 24px;
+	line-height: 32px;
+}
+.eersteP {
+	margin-bottom: 40px;
+	border-top: 1px solid gray;
+	padding-top: 20px;
+}
+ul {
+	margin-bottom: 40px;
+}
+li {
+	font-size: 20px;
+	line-height: 26px;
+	margin-bottom: 10px;
+}
+.li2 {
+	margin-bottom: 20px;
+}
+.bold {
+	font-weight: bold;
+}
+.tip {
+	border: 1px solid #def6ed;
+	border-radius: 4px;
+	padding: 25px;
+	background-color: #def6ed;
+	font-size: 20px;
+}
+a {
+	color: black;
+}
+.nagerecht {
+	float: right;
+	color: black;
+}
+.tomatensoepImg {
+	margin-bottom: 30px;
+}
+div {
+	font-family: 'Roboto', sans-serif;	
+	width: 950px;
+	margin: 0 auto;
+}
